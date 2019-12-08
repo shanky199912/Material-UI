@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Intellify Task1</string>
+
+    <string-array name="Test">
+        <item>Class Test</item>
+        <item>Test1</item>
+    </string-array>
+
+    <string-array name="Time">
+        <item>09:00 Am</item>
+        <item>10:00 Am</item>
+    </string-array>
+
+    <string-array name="Date">
+        <item>12-NOVEMBER-2019</item>
+        <item>13-NOVEMBER-2018</item>
+        <item>10-NOVEMBER-2017</item>
+        <item>15-NOVEMBER-2016</item>
+    </string-array>
+</resources>
